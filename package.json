@@ -1,0 +1,19 @@
+{
+  "name": "fella-door",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-amutava/fella-door.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-amutava/fella-door/issues"
+  },
+  "homepage": "https://github.com/andela-amutava/fella-door#readme"
+}
